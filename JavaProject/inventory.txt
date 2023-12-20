@@ -1,0 +1,4 @@
+Name,Quantity,Price,Category
+Smartphone,-80,500,00,Electronics
+Laptop,5,1200,00,Electronics
+Headphones,20,80,00,Electronics
